@@ -1,94 +1,73 @@
-+----------------------------------+------------------------+----------+
-| SCHOOL OF INFORMATION TECHNOLOGY |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Hyra Cayambas              |                        |          |
-+----------------------------------+------------------------+----------+
-| SECTION: IDC1                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+# SYSADM1 PORTFOLIO NI HYRA CAYAMBAS
 
-# SYSADM1 PORTFOLIO
+> ## **Table of Contents**
+| Name of Activity | Date | Image No. |
+| --- | --- | --- |
+| **First Grading** |
+| Quizzes |
+| FG_Quiz 1 |  |  |
+| FG_Quiz 2 | 9/10 |  |
+| FG_Quiz 3 |  |  |
+| FG Other Activities |  |  |
+| FGE_LW1 Creating File System | 08/28 |  |
+| FGE_LW3 Managing Services in Windows | 08/28 |  |
+| FGE_LW4 Managing Services in Linux | 9/11 |  |
+| First Grading Exam Lecture| 09/17 |  |
+| First Grading Exam Laboratory| 09/18 |  |
+| **Midterm** |
+| Quizzes |
+| M_Quiz 1 |  |  |
+| M_Quiz 2 |  |  |
+| M_Quiz 3 |  |  |
+| Other Activities |  |  |
+| M_LW1 Print Services | 09/25 |  |
+| M_LW2 Web Server | 10/16 |  |
+| M_R1 Web Server Monitoring | 10/16 |  |
+| Midterm Exam Lecture | 10/29 |  |
+| Midterm Exam Laboratory |  |  |
+| **Final Grading** |
+| Quizzes |
+| F_Quiz1 Recovery | 11/20 |  |
+| F_Quiz 2 |  |  |
+| F_Quiz 3 |  |  |
+| Other Activities |  |  |
+| F_LW1 Kerberos Research | 11/06 |  |
+| F_LW1 Kerberos Laboratory | 11/13 |  |
+| F_LW2 Git | 11/20 |  |
+| Network Design | 12/04 |  |
+| Final Exam |  |  |
 
-> **Table of Contents**
+> ## Screenshots of Activities
+| Name of Activity | SS | Image No. |
+| --- | --- | --- |
+| FGE_Quiz 1 |  |  |
+| FGE_Quiz 2 |  |  |
+| FGE_Quiz 3 |  |  |
+| Other Activities |  |  |
+| FGE_LW1 Creating File System |  |  |
+| FGE_LW3 Managing Services in Windows |  |  |
+| FGE_LW4 Managing Services in Linux |  |  |
+| First Grading Exam Lecture|  |  |
+| First Grading Exam Laboratory|  |  |
+| M_Quiz 1 |  |  |
+| M_Quiz 2 |  |  |
+| M_Quiz 3 |  |  |
+| M_LW1 Print Services |  |  |
+| M_LW2 Web Server |  |  |
+| M_R1 Web Server Monitoring |  |  |
+| Midterm Exam Lecture |  |  |
+| Midterm Exam Laboratory |  |  |
+| F_Quiz1 Recovery |  |  |
+| F_Quiz 2 |  |  |
+| F_Quiz 3 |  |  |
+| Other Activities |  |  |
+| F_LW1 Kerberos Research |  |  |
+| F_LW1 Kerberos Laboratory |  |  |
+| F_LW2 Git |  |  |
+| Network Design |  |  |
+| Final Exam |  |  |
 
-+----------------------------------------+--------------+--------------+
-| **Name of Activities**                 | **Date of    | **Page No.** |
-|                                        | Activity**   |              |
-+----------------------------------------+--------------+--------------+
-| **First Grading**                      |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              | 1            |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              | 3            |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-|                                        |              |              |
-|                                        |              |              |
-+----------------------------------------+--------------+--------------+
-|                                        |              |              |
-|                                        |              |              |
-+----------------------------------------+--------------+--------------+
-|                                        |              |              |
-|                                        |              |              |
-+----------------------------------------+--------------+--------------+
-| First Grading Exam                     |              |              |
-+----------------------------------------+--------------+--------------+
-| **Midterms**                           |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| Midterm Exam                           |              |              |
-+----------------------------------------+--------------+--------------+
-| **Finals**                             |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| Final Exam                             |              |              |
-+----------------------------------------+--------------+--------------+
-| Course Reflection                      |              |              |
-+----------------------------------------+--------------+--------------+
-
-**\<insert your scanned activities here include title\>**
-
-**Course Reflection**
+> ## **Course Reflection**
 
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
