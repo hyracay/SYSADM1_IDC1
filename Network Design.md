@@ -1,17 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 9b63dc858dc94a67b4ca6e4ba984a5b5 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Hyra Cayambas, Dale        | DATE PERFORMED: 11/27  | /50      |
-| Matthew Boquiren                 |                        |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC1                    | DATE SUBMITTED: 12/04  |          |
-+----------------------------------+------------------------+----------+
+
+# Hyra Cayambas, Dale Matthew Boquiren
 
 # SYSADM1 -- Capacity Management & Planning
 
@@ -25,14 +13,9 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_9b63dc858dc94a67b4ca6e4ba984a5b5/media/image2.bin){width="5.049483814523184in"
-height="3.8229166666666665in"}
+# Proposed Diagram:
 
-**Proposed Diagram:\
-**
-
-![](vertopal_9b63dc858dc94a67b4ca6e4ba984a5b5/media/image3.png){width="8.020833333333334in"
-height="5.123127734033246in"}
+![NETWORK DESIGN](https://github.com/user-attachments/assets/b59c1e4a-422c-40d2-92e1-0a2f0368e7ad)
 
 **Network Analysis**
 
@@ -163,59 +146,3 @@ height="5.123127734033246in"}
         supports future expansion without major overhauls, making it a
         justified and comprehensive solution
 
-  ------------------------------------------------------------------------------
-  Criteria          Excellent \| 10pts Good \| 7pts        Needs Improvement \|
-                                                           4pts
-  ----------------- ------------------ ------------------- ---------------------
-  **Network         Accurately         Identifies key      Identifies some basic
-  Analysis**        identifies         network components  network components
-                    potential          and some potential  but lacks a
-                    bottlenecks,       bottlenecks.        comprehensive
-                    security risks,                        analysis.
-                    and capacity                           
-                    limitations.                           
-
-  **Scalability     Proposes multiple  Proposes some       Proposes limited
-  Planning**        relevant solutions relevant            scalability
-                    and provides       scalability         strategies.
-                    detailed           strategies but      
-                    explanations,      lacks detail.       
-                    including                              
-                    potential                              
-                    drawbacks and                          
-                    benefits.                              
-
-  **Evaluation of   Proposes           Provides a basic    Does not evaluate the
-  Solutions**       comprehensive      evaluation of the   proposed solutions or
-                    scalability        proposed solutions, provides a
-                    strategies,        but lacks depth.    superficial
-                    including specific                     evaluation.
-                    recommendations                        
-                    for hardware                           
-                    upgrades, software                     
-                    configurations,                        
-                    and network                            
-                    optimizations.                         
-
-  **Proposed        Provides a         Provides a basic    Does not provide a
-  Design**          detailed and       design but lacks    clear and detailed
-                    well-justified     specific details    design.
-                    design, including  and justifications. 
-                    network diagrams,                      
-                    configuration                          
-                    details, and                           
-                    implementation                         
-                    plans.                                 
-
-  **Evaluation and  Provides a         Provides a basic    Does not evaluate the
-  Justification**   thorough           evaluation of the   proposed solutions or
-                    evaluation of the  proposed solutions, provides a
-                    proposed           but lacks depth.    superficial
-                    solutions,                             evaluation
-                    considering                            
-                    factors like cost,                     
-                    complexity, and                        
-                    potential impact.                      
-
-  Score:                                                   /50
-  ------------------------------------------------------------------------------
