@@ -5,15 +5,15 @@
 | --- | --- | --- |
 | **First Grading** |
 | Quizzes |
-| FG_Quiz 1 |  |  |
-| FG_Quiz 2 | 9/10 |  |
+| FG_Quiz 1 | 8/21 | 1 |
+| FG_Quiz 2 | 9/10 | 2 |
 | FG_Quiz 3 |  |  |
 | FG Other Activities |  |  |
 | FGE_LW1 Creating File System | 08/28 |  |
 | FGE_LW3 Managing Services in Windows | 08/28 |  |
 | FGE_LW4 Managing Services in Linux | 9/11 |  |
-| First Grading Exam Lecture| 09/17 |  |
-| First Grading Exam Laboratory| 09/18 |  |
+| First Grading Exam Lecture | 09/17 |  |
+| First Grading Exam Laboratory | 09/18 |  |
 | **Midterm** |
 | Quizzes |
 | M_Quiz 1 |  |  |
@@ -27,7 +27,7 @@
 | Midterm Exam Laboratory |  |  |
 | **Final Grading** |
 | Quizzes |
-| F_Quiz1 Recovery | 11/20 |  |
+| F_Quiz 1 Recovery | 11/20 |  |
 | F_Quiz 2 |  |  |
 | F_Quiz 3 |  |  |
 | Other Activities |  |  |
@@ -40,31 +40,31 @@
 > ## Screenshots of Activities
 | Name of Activity | SS | Image No. |
 | --- | --- | --- |
-| FGE_Quiz 1 |  |  |
-| FGE_Quiz 2 |  |  |
+| FGE_Quiz 1 | ![image](https://github.com/user-attachments/assets/e4daaa42-fbde-4fd1-9097-9dd9f77cad39) | 1 |
+| FGE_Quiz 2 | ![image](https://github.com/user-attachments/assets/2167831b-71af-431a-9772-d2c7a39520c7) | 2 |
 | FGE_Quiz 3 |  |  |
 | Other Activities |  |  |
-| FGE_LW1 Creating File System |  |  |
-| FGE_LW3 Managing Services in Windows |  |  |
-| FGE_LW4 Managing Services in Linux |  |  |
-| First Grading Exam Lecture|  |  |
-| First Grading Exam Laboratory|  |  |
+| FGE_LW1 Creating File System | ![image](https://github.com/user-attachments/assets/c04fc095-f952-43a0-b1cb-5a429595969f) ![image](https://github.com/user-attachments/assets/8741a2d2-4b0f-4917-ae9b-b4098f80badb) ![image](https://github.com/user-attachments/assets/3313b5e8-dc47-4509-9c8c-09153ab91bdf) |  |
+| FGE_LW3 Managing Services in Windows | ![image](https://github.com/user-attachments/assets/1207874e-1a64-47a1-ad27-26f334588db7) ![image](https://github.com/user-attachments/assets/eee1e806-28c5-4264-8ba9-426cbc81ec58) |  |
+| FGE_LW4 Managing Services in Linux | ![image](https://github.com/user-attachments/assets/455e86a5-af98-4600-be82-a790c4305f7f) ![image](https://github.com/user-attachments/assets/bd3cff03-0f87-4e44-a572-13f2f3b87bf7) |  |
+| First Grading Exam Lecture | ![image](https://github.com/user-attachments/assets/37cecfd4-41e6-4c90-931f-2112d9b69795) ![image](https://github.com/user-attachments/assets/7f4b82f6-cc15-4877-8812-7e2a510a64ba) ![image](https://github.com/user-attachments/assets/04dfe771-4539-4df5-b3f1-4c5e178c31e8) |  |
+| First Grading Exam Laboratory | ![image](https://github.com/user-attachments/assets/c919cbf2-bae0-4448-9b20-5f9769235e9c) ![image](https://github.com/user-attachments/assets/61bbe415-b742-4205-a325-2d49bc800ffb) |  |
 | M_Quiz 1 |  |  |
 | M_Quiz 2 |  |  |
 | M_Quiz 3 |  |  |
-| M_LW1 Print Services |  |  |
-| M_LW2 Web Server |  |  |
-| M_R1 Web Server Monitoring |  |  |
-| Midterm Exam Lecture |  |  |
+| M_LW1 Print Services | ![image](https://github.com/user-attachments/assets/334aa98b-abca-4414-9999-ec2811a518c5) ![image](https://github.com/user-attachments/assets/90a0601d-5902-4375-ac6d-067dc39f6694) |  |
+| M_LW2 Web Server | ![image](https://github.com/user-attachments/assets/832132b4-9e58-4dd6-817a-3643fe6b12f7) ![image](https://github.com/user-attachments/assets/b957bb33-f2cc-4857-8f63-d6b99e84ed44) |  |
+| M_R1 Web Server Monitoring | ![image](https://github.com/user-attachments/assets/34f0568c-9cd0-41af-8e6e-d7f0b2d97a70) |  |
+| Midterm Exam Lecture | ![image](https://github.com/user-attachments/assets/a98e16bb-893d-48c5-b13e-9c266b284c46) ![image](https://github.com/user-attachments/assets/850af674-9002-4c0f-b927-1fb027312976) ![image](https://github.com/user-attachments/assets/9315de66-4ed4-422c-8d7e-08c85f41a769) ![image](https://github.com/user-attachments/assets/7e693682-8152-4417-a63f-93139589349b) |  |
 | Midterm Exam Laboratory |  |  |
-| F_Quiz1 Recovery |  |  |
+| F_Quiz 1 Recovery | ![image](https://github.com/user-attachments/assets/e7759384-77ae-429b-a56e-411ec1ace1f3) ![image](https://github.com/user-attachments/assets/c41a2b4b-1451-4ed3-83bf-5926b7abe5ac) |  |
 | F_Quiz 2 |  |  |
 | F_Quiz 3 |  |  |
 | Other Activities |  |  |
-| F_LW1 Kerberos Research |  |  |
-| F_LW1 Kerberos Laboratory |  |  |
-| F_LW2 Git |  |  |
-| Network Design |  |  |
+| F_LW1 Kerberos Research | ![image](https://github.com/user-attachments/assets/28ea0b87-75b8-4389-933e-86b0b654d80f) ![image](https://github.com/user-attachments/assets/f319688d-5f64-427c-b69e-dee8c89b20d5) |  |
+| F_LW1 Kerberos Laboratory | ![image](https://github.com/user-attachments/assets/adb5efde-e540-49be-920e-e0bb5e3d6f66) ![image](https://github.com/user-attachments/assets/0d1c57f0-89b7-4b87-895c-cd34cbd48411) ![image](https://github.com/user-attachments/assets/d17aec47-4968-4a89-a77b-6e5ae7cde2d3) ![image](https://github.com/user-attachments/assets/6f44c5d9-0d61-40bc-9445-5eaf11e47a0e) |  |
+| F_LW2 Git | ![image](https://github.com/user-attachments/assets/9141b576-530e-4ff4-859a-d6c6ef6fa07b) ![image](https://github.com/user-attachments/assets/4cb53333-27d4-4423-b014-e2cca347cdbd) |  |
+| Network Design | ![image](https://github.com/user-attachments/assets/cd392295-7898-48e3-995c-20d6c1cdc43d) ![image](https://github.com/user-attachments/assets/d1e3071b-fd17-4345-88cd-acba2addc461) ![image](https://github.com/user-attachments/assets/581f0a05-71c7-4a1c-8781-339c8ec9b327) ![image](https://github.com/user-attachments/assets/15ad80c7-b5bc-4d02-8442-bb3592372d6b) |  |
 | Final Exam |  |  |
 
 > ## **Course Reflection**
