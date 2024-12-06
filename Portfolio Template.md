@@ -69,60 +69,48 @@
 
 > ## **Course Reflection**
 
-What were your initial expectations for the course? Did the course meet,
-exceed, or fall short of these expectations?
+**What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?**
+-------------------------------------------------------------------------
+My initial expectation was that this subject is going to be harder than server administration which I finished last semester. In a way, it really was more challenging, however, due to the limitations of our assigned laboratory and the unfortunate series of class suspensions,
+I was not able to fully grasp or master the lessons that we were supposed to simulate especially the linux bash commands. I can say that I have learned enough but not as much as I expected or would have liked.
+
+**What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?**
 
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
-What were the main topics or concepts covered in the course? How did
-these topics contribute to your understanding of the subject matter?
+**Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp and retain the course material?**
 
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
-Reflecting on your learning process, what were the most effective
-strategies or techniques that helped you grasp and retain the course
-material?
+**Were there any particular assignments, projects, or activities that significantly enhanced your learning experience? Why were they effective?**
 
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
-Were there any particular assignments, projects, or activities that
-significantly enhanced your learning experience? Why were they
-effective?
+**Did you encounter any challenges or difficulties during the course? How did you overcome these obstacles, and what did you learn from them?**
 
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
-Did you encounter any challenges or difficulties during the course? How
-did you overcome these obstacles, and what did you learn from them?
+**Did the course encourage critical thinking and analysis? How did it promote higher-order thinking skills, such as problem-solving or decision-making?**
 
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
-Did the course encourage critical thinking and analysis? How did it
-promote higher-order thinking skills, such as problem-solving or
-decision-making?
+**Reflecting on your personal growth, what new knowledge, skills, or perspectives did you gain from this course?**
 
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
-Reflecting on your personal growth, what new knowledge, skills, or
-perspectives did you gain from this course?
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
-How do you plan to apply what you have learned in this course to your
-future studies, career, or personal life?
+**How do you plan to apply what you have learned in this course to your future studies, career, or personal life?**
 
   -----------------------------------------------------------------------
 
