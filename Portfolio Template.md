@@ -87,6 +87,9 @@ I was not able to fully grasp or master the lessons that we were supposed to sim
   -----------------------------------------------------------------------
 
 **Were there any particular assignments, projects, or activities that significantly enhanced your learning experience? Why were they effective?**
+  -----------------------------------------------------------------------
+The kerberos lab activity or FLW1 was particularly entertaining for me as it required me to troubleshoot system problems in Linux environment and forced me to develop my own strategies as to how I should complete the task. Although I wasn't able to finish the lab activity in time, I still made the decision to
+continue the task at home despite not being required to. I'm glad I did because I was able to learn about basic kerberos authentication through ticket based access which was the whole point of the activity. This kind of lab activity is effective for me and I consider it as a "good" stress. First I stress myself out in the lab then I troubleshoot freely at home. It is effective because I get to apply critical thinking on my own without too much constraints such as time pressure and hardware issues.
 
   -----------------------------------------------------------------------
 
