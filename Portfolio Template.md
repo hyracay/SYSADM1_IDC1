@@ -61,46 +61,33 @@ My initial expectation was that this subject is going to be harder than server a
 I was not able to fully grasp or master the lessons that we were supposed to simulate especially the linux bash commands. I can say that I have learned enough but not as much as I expected or would have liked.
 
 **What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+-------------------------------------------------------------------------
+The main topics covered were Physical Infrastructure Services, Network Services, Computing Environments, Change Mgmt and Risk Assessment, Centralized Mgmt using LDAP, Acceptable Use Policy, EULA and SLA, Kerberos, Data Loss and Recovery, Capacity Planing, GitHub/GitLab, Server Monitoring, Print and Web Services
+and finally the Linux environment. These topics helped me understand that tasks of a system administrator and the certain expectations of being one.
 
 **Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp and retain the course material?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+-------------------------------------------------------------------------
+All of the lab activities were effective learning methods for me. I get to work in my own pace and apply analyzation and critical thinking to complete my tasks. The trick is just to rely on myself and only ask for help when stuck at points I tend to waste valuable time on.
 
 **Were there any particular assignments, projects, or activities that significantly enhanced your learning experience? Why were they effective?**
-  -----------------------------------------------------------------------
+-------------------------------------------------------------------------
 The kerberos lab activity or FLW1 was particularly entertaining for me as it required me to troubleshoot system problems in Linux environment and forced me to develop my own strategies as to how I should complete the task. Although I wasn't able to finish the lab activity in time, I still made the decision to
 continue the task at home despite not being required to. I'm glad I did because I was able to learn about basic kerberos authentication through ticket based access which was the whole point of the activity. This kind of lab activity is effective for me and I consider it as a "good" stress. First I stress myself out in the lab then I troubleshoot freely at home. It is effective because I get to apply critical thinking on my own without too much constraints such as time pressure and hardware issues.
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
 **Did you encounter any challenges or difficulties during the course? How did you overcome these obstacles, and what did you learn from them?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+-------------------------------------------------------------------------
+Aside from the series of class suspensions, the computers in the laboratory didn't have enough computing power to carry the course's work load. Aside from that, we were not provided with updated ISO files to simulate the proper virtual machines especially Linux. I can't say that I was able to overcome these obstacles
+as it was clearly beyond my control, taking out the fact that I had to install my own ISO files in my own computer just to complete some tasks.
 
 **Did the course encourage critical thinking and analysis? How did it promote higher-order thinking skills, such as problem-solving or decision-making?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+-------------------------------------------------------------------------
+The course definitely encouraged critical thinking and analysis. Almost all tasks were individually graded and although collaboration in the lab isn't strictly discouraged, Im working on my own tasks and submit files on my own. There is only so much that you can rely on your peers. Being a system administrator
+requires problem solving skills and most of the time people rely on you for decisions. The course helped me, personally and academically in these aspects.
 
 **Reflecting on your personal growth, what new knowledge, skills, or perspectives did you gain from this course?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+-------------------------------------------------------------------------
+Through this course, I gained a deeper understanding of system administration concepts, especially those related to Linux environments and centralized management using tools like LDAP. I’ve learned how critical proper planning, troubleshooting, and risk assessment are to the role. I also developed practical skills in system monitoring, Kerberos authentication, and version control using GitHub/GitLab. More importantly, I’ve learned to be more self-reliant and resourceful, which has given me confidence in tackling complex tasks even under challenging circumstances.
 
 **How do you plan to apply what you have learned in this course to your future studies, career, or personal life?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+-------------------------------------------------------------------------
+I plan to apply what I’ve learned by continuing to enhance my skills in Linux system administration and other core areas we covered, such as network services and data recovery. In future studies, these skills will help me tackle more advanced technical subjects with a strong foundation. For my career, the hands-on experience and problem-solving techniques I developed in this course will be invaluable in roles that require system administration and IT infrastructure management. Personally, the ability to troubleshoot and think critically under pressure is something I can apply in many aspects of life, from handling personal projects to mentoring others in technical skills.
