@@ -1,4 +1,4 @@
-# SYSADM1 PORTFOLIO NI HYRA CAYAMBAS
+# SYSADM1 PORTFOLIO by HYRA CAYAMBAS
 
 > ## **Table of Contents**
 | Name of Activity | Date | Image No. |
